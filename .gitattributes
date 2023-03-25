@@ -1,2 +1,2 @@
-*.ps1 text working-tree-encoding=UTF8-BOM eol=CRLF
+*.ps1 -text -diff
 *.bat text working-tree-encoding=CP866 eol=CRLF
